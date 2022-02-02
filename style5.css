@@ -9,6 +9,11 @@ a {
     color: #2d8659;
 }
 
+a.grey {
+    text-decoration: none;
+    color: #D3D3D3;
+}
+
 a.header {
     text-decoration: none;
     color: #366e87;
